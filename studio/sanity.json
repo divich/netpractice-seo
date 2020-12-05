@@ -2,7 +2,7 @@
   "root": true,
   "api": {
     "projectId": "akg9pnek",
-    "dataset": "seo2"
+    "dataset": "production"
   },
   "project": {
     "name": "Next.js Comment-enabled blog",
